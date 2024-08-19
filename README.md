@@ -33,7 +33,7 @@ El proyecto está organizado en la siguiente estructura de directorios:
 ├── index.html # Página principal
 ├── products.html # Página de productos
 ├── contact.html # Página de contacto
-├── cart.html # Página del carrito de compras
+├── cart.jsp # Página del carrito de compras
 └── README.md # Documentación del proyecto
   ```
 
