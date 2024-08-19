@@ -23,6 +23,7 @@ TechSpot es un sitio web diseñado para ofrecer a los clientes una experiencia d
 
 El proyecto está organizado en la siguiente estructura de directorios:
 
+  ```
 /techspot
 │
 ├── /css
