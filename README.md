@@ -41,6 +41,7 @@ El proyecto está organizado en la siguiente estructura de directorios:
 ├── contact.html # Página de contacto
 ├── cart.html # Página del carrito de compras
 └── README.md # Documentación del proyecto
+  ```
 
 
 ## Tecnologías Utilizadas
