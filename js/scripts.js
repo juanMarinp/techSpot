@@ -22,3 +22,15 @@ document.addEventListener('DOMContentLoaded', function() {
         form.classList.add('was-validated');
     }, false);
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    var form = document.getElementById('loginForm');
+
+    form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+            event.preventDefault();
+            event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+    }, false);
+});
