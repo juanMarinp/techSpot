@@ -94,5 +94,6 @@ Haz un Fork del Repositorio.
 **Crea una Rama:**
    ```bash
 git checkout -b nombre-de-tu-rama
+  ```
 Haz tus Cambios y Commits.
 Envía un Pull Request.
