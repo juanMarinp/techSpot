@@ -12,8 +12,6 @@ Bienvenido al proyecto de TechSpot, un sitio web interactivo para la tienda de e
 6. [Decisiones de Diseño](#decisiones-de-diseño)
 7. [Desafíos y Soluciones](#desafíos-y-soluciones)
 8. [Contribuir](#contribuir)
-9. [Licencia](#licencia)
-10. [Contacto](#contacto)
 
 ## Descripción del Proyecto
 
