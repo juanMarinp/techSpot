@@ -26,7 +26,10 @@ El proyecto está organizado en la siguiente estructura de directorios:
 │
 ├── /css
 │ ├── styles.css # Estilos personalizados
-│
+|
+├── /js
+│ ├── scripts.js # javascript
+|
 ├── index.html # Página principal
 ├── products.html # Página de productos
 ├── contact.html # Página de contacto
